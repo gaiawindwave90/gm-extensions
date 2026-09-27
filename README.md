@@ -1,6 +1,6 @@
-# TurboWarp Extension Gallery
+# GaiaMod Extension Gallery
 
-User-contributed unsandboxed extension gallery for TurboWarp.
+User-contributed unsandboxed extension gallery for GaiaMod.
 
 https://extensions.turbowarp.org/
 
